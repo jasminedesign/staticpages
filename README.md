@@ -1,0 +1,2 @@
+# staticpages
+Modern Static Websites
